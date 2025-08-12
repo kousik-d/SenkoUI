@@ -3,6 +3,8 @@
 
 import PackageDescription
 
+let packageversion = "1.0.0"
+
 let package = Package(
     name: "SenkoUI",
     platforms: [
