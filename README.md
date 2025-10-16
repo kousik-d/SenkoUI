@@ -30,7 +30,6 @@ In Xcode:
 
    ```bash
    https://github.com/kousik-d/SenkoUI
-
    ```
 3. Select Add Package.
 
